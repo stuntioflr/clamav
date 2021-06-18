@@ -1,0 +1,14 @@
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/cache/MetaDataServiceCache.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/dto/FileScanResponseDto.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/service/FileScanService.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/exceptions/ClamAVSizeLimitException.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/resource/HealthController.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/ClamavApplication.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/config/ClamAVClient.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/exceptions/FileStorageException.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/config/ClamAVServiceAPIConfig.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/dto/ResponseDto.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/resource/FileScanController.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/config/Swagger2Config.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/impl/FileScanServiceImpl.java
+/home/fahad/virus/clamav-spring/src/main/java/com/file/scan/clamav/properties/AppProperties.java

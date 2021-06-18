@@ -1,0 +1,14 @@
+com/file/scan/clamav/impl/FileScanServiceImpl.class
+com/file/scan/clamav/config/ClamAVClient.class
+com/file/scan/clamav/config/ClamAVServiceAPIConfig.class
+com/file/scan/clamav/exceptions/FileStorageException.class
+com/file/scan/clamav/cache/MetaDataServiceCache.class
+com/file/scan/clamav/resource/FileScanController.class
+com/file/scan/clamav/ClamavApplication.class
+com/file/scan/clamav/dto/FileScanResponseDto.class
+com/file/scan/clamav/dto/ResponseDto.class
+com/file/scan/clamav/config/Swagger2Config.class
+com/file/scan/clamav/exceptions/ClamAVSizeLimitException.class
+com/file/scan/clamav/properties/AppProperties.class
+com/file/scan/clamav/service/FileScanService.class
+com/file/scan/clamav/resource/HealthController.class
